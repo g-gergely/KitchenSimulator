@@ -7,7 +7,7 @@ public class Kitchen {
 
     private List<Cook> cooks = new ArrayList<>();
     private List<KitchenHelper> kitchenHelpers = new ArrayList<>();
-    private List<Employee> employees= new ArrayList<>();    // How to add cook and kitchen helpers to employees?
+    private List<Employee> employees= new ArrayList<>();   
     private Chef chef;
 
 
